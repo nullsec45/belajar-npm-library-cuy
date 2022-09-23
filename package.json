@@ -1,0 +1,14 @@
+{
+  "name": "belajar-npm-library-cuy",
+  "version": "1.1.0",
+  "description": "Belajar bikin library npm",
+  "exports":{
+    ".":"./index.js",
+    "./number":"./number.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramarff",
+  "license": "ISC"
+}
